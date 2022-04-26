@@ -1,2 +1,3 @@
-# repositorio-dio
-Repositorio para projetos da DIO
+# Repositorio Dio
+
+## Repositorio para projetos da DIO
